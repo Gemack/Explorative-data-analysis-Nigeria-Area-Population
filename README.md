@@ -1,1 +1,1 @@
-# Explorative data-analysis on Nigeria Population (2006 census) and land area by Kilometer squared using Numpy, Pandas, Matplotlib and seaborn
+# Explorative data-analysis on Nigeria Population (2006 census) and land area by Kilometer squared using Numpy, Pandas, Matplotlib and seaborn, PostgreSQL was used to query data into regions for analysis
